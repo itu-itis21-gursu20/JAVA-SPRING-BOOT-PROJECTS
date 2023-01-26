@@ -1,2 +1,2 @@
 # JAVA-SPRING-BOOT-PROJECTS
-I am sharing my Java Spring Boot projects
+I am sharing some Java Spring Boot project examples.
